@@ -15,3 +15,4 @@ ADD THE SHORTCUT OF THE .EXE FILE THERE
 VOILA!
 ENJOY YOUR RACE!!
 
+PYTHON--------https://www.python.org/downloads/release/python-3132/
