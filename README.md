@@ -11,3 +11,7 @@ TYPE shell:startup
 ADD THE SHORTCUT OF THE .EXE FILE THERE
 VOILA!
 ENJOY YOUR RACE!!
+
+please ensure that you have the lates version of python installed with it being added to path
+download tkinter before using the .exe or else the exe wont run
+pip install tk-------- run this  to install tkinter
