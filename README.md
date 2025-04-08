@@ -1,3 +1,6 @@
+python installer and tkinter installer are provided for your help pleae use them before running the .exe
+
+
 WHEN THE DRS AND TIME IS IN RED COLOUR THAT MEANS ITS DAY TIME (AM)
 WHEN THE TIME AND DRS IS IN GREEN COLOUR THAT MEANS ITS NIGHT(PM)
 YOU CAN CHANGE THE SIZE OF RPM BAR BY POINTING YOUR CURSON ON ONE OF THE RPM LIGHT AND SCROLLING UP/DOWN FOR AUDJESTING THE SIZE OD RPM
@@ -12,6 +15,3 @@ ADD THE SHORTCUT OF THE .EXE FILE THERE
 VOILA!
 ENJOY YOUR RACE!!
 
-please ensure that you have the lates version of python installed with it being added to path
-download tkinter before using the .exe or else the exe wont run
-pip install tk-------- run this  to install tkinter
